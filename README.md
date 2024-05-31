@@ -1,5 +1,5 @@
 # Programing-Uni-Project
-My project done for my Level 4 Principles of Programming assignment at the Univercity of Gloucestershire
+My project done for my Level 4 Principles of Programming assignment at the University of Gloucestershire
 
 Project brief:
 
@@ -22,3 +22,6 @@ Software Requirements:
 4.     SQLite Database: You will need to create a SQLite database to store promotion and user information. The database should have at least three tables: one for promotions, one for user registration, and another for storing user interactions with promotions. The database should be linked with developed GUI.
 
 5.     SQL Injection Prevention: The system should be protected against SQL injection attacks. You must ensure that all user inputs are sanitized and validated before being passed to the SQLite database. For this application, any user’s age under 18 is considered as an attack and details should be rejected and not saved in the database.
+
+
+Final score: 91/100
